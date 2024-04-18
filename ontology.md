@@ -9,12 +9,12 @@ Content Designer\
 
 ---
 
-| Contents |                          |
-| ----------------- | ----------------------- |
-| [Discovery](#/2)         | Collecting the elements |
-| [Concept Mapping](#/9)   | Painting a picture      |
-| Product Narrative | Writing a story         |
-| Terminology       | Defining the terms      |
+| Contents                  |                         |
+| ------------------------- | ----------------------- |
+| [Discovery](#/2)          | Collecting the elements |
+| [Concept Mapping](#/9)    | Painting a picture      |
+| [Product Narrative](#/15) | Writing a story         |
+| [Terminology](#/19)       | Defining the terms      |
 
 ---
 
@@ -22,19 +22,14 @@ Content Designer\
 
 ## Collecting the elements
 
-
----
-
-
-## Collecting the elements
 Collect all the concepts that need definition in a single place. Features that need names, language that's unclear, or anything else that's confusing.
 
 ---
 
 ## Start here
 
-1. Create a board in Miro, Figjam, or any other [[collaborative whiteboard software]]. Or use this Figjam template.
-2. Identify the participants and name a single decision maker for the Mapping, Narrative, and Terminology phases. (The content designer is generally the decision maker for Terminology.)
+1. Create a board in Miro, Figjam, or any other collaborative whiteboard software.
+2. Identify the participants and name a **single decision maker (DM)** for the Mapping, Narrative, and Terminology phases. (A content designer is typically the DM for Terminology.)
 3. Spend 3 days adding post-it notes the board by answering the *kickstart questions*. (This can be done asynchronously.)
 
 ---
@@ -51,7 +46,7 @@ Collect all the concepts that need definition in a single place. Features that n
 ## Three types of confusing concepts
 
 | Type         | Description                                                                                                                                                                                              | Example                                                                                                                                                                                                                                 |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Collision    | When the same terminology is used for two concepts                                                                                                                                                       | `Huddle` has a specific meaning in Slack. If you called another feature "Huddle" that would be confusing.                                                                                                                               |
 | Fuzzy label  | The reverse of collision. Where the same concept is referred to in multiple ways.                                                                                                                        | This is common. In Zendesk, a `ticket comment` is also referred to as a `reply` or a `message`.                                                                                                                                         |
 | Dirty magnet | A kind of fuzzy label. It generally means a design element or feature that tends to attract mess or clutter over time, due to a lack of constraints or guidance on how to organize information properly. | Terms like `AI` and`machine learning` are being overused without being properly defined. <br><br>In the UI sense, a desktop or home screen without predefined structures where users indiscriminately place files, leading to disarray. |
@@ -107,24 +102,19 @@ Visually arrange your concepts to show how they are connected. You can approach 
 
 ## Types of concept map
 
-
 - **Cluster Diagram**
   A visual representation that groups related ideas or data into clusters to show relationships and to organize information hierarchically.
 
 ![](https://i.imgur.com/99AOIwq.png)
 
-
 - **Euler Diagram**
   A diagrammatic means of representing sets and their relationships with shapes that overlap; similar to, but not as strict in format as Venn diagrams.
-
-
 
 - **Cutaway View**
   An illustration in which the outer layer of an object is 'cut away' to reveal the interior, providing insight into the inner workings or structure.
 
 - **Exploded View**
   A diagram that shows the individual parts of an object slightly separated by distance, displaying how components fit together and their sequence of assembly.
-
 
 ---
 
@@ -165,7 +155,7 @@ Now that they have more structure, your concepts into a story format. For the fi
 ## Start here
 
 - In a sense, this is your first prototype of the experience. Write for someone without context
-- Use short clear sentences, unpack internal jargon, and walk through concepts in the order they are encountered 
+- Use short clear sentences, unpack internal jargon, and walk through concepts in the order they are encountered
 - Explain every concept when it is introduced and literally highlight any key concepts
 
 ---

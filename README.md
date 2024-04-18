@@ -7,13 +7,13 @@ This repository contains resources and materials for an ontology workshop aimed 
 ## Objectives
 - Understand the concept of ontology in content design
 - Learn how to apply ontology to improve content organization and user experience
-- Engage in hands-on exercises to reinforce learning
+- Engage in hands-on exercises to secure alignment and foster learning
 
 ## Contents
-1. **Discovvery:** A brief overview of what ontology is and why it's crucial in content design.
-2. **Concept mapping:** A step-by-step guide on how to apply ontology in your content design process.
-3. **Product narrative:** Real-world exercises to help your team practice and understand the application of ontology.
-4. **Terminology:** Additional resources for further learning.
+1. **Discovery:** Collecting the elements
+2. **Concept mapping:** Painting a picture
+3. **Product narrative:** Writing a story
+4. **Terminology:** Defining your terms
 
 ## Contributing
 We welcome contributions! Please see `CONTRIBUTING.md` for details on how you can help improve this toolkit.
