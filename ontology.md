@@ -2,7 +2,6 @@
 
 ## An ontology toolkit
 
-Employee Experience\
 V. Sri\
 Content Designer\
 2024-Q2
@@ -16,28 +15,28 @@ Content Designer\
 | [Product Narrative](#/15) | Writing a story         |
 | [Terminology](#/19)       | Defining the terms      |
 
+
 ---
 
 # Discovery
 
 ## Collecting the elements
 
-Collect all the concepts that need definition in a single place. Features that need names, language that's unclear, or anything else that's confusing.
+Collect all the concepts that need definition in a a single place. Features that need names, language that's unclear, or anything else that's confusing.
 
 ---
 
 ## Start here
 
-1. Create a board in Miro, Figjam, or any other collaborative whiteboard software.
-2. Identify the participants and name a **single decision maker (DM)** for the Mapping, Narrative, and Terminology. 
-   1. (A content designer is typically the DM for Terminology.)
+1. Create a board in Miro, Figjam, or any other [[collaborative whiteboard software]]. Or use this Figjam template.
+2. Identify the participants and name a single decision maker for the Mapping, Narrative, and Terminology phases. (The content designer is generally the decision maker for Terminology.)
 3. Spend 3 days adding post-it notes the board by answering the *kickstart questions*. (This can be done asynchronously.)
 
 ---
 
 ## Kickstart questions
 
-- Who needs to be involved at each phase? More isn't always better. Also, name a single decision maker for each phase. This person helps unblock when the team is deadlocked.
+- Who needs to be involved at each phase? More isn't always better. Also, name a sole decision maker for each phase. This person unblocks impasses.
 - Spend 10 minutes and create a post-it for the key concepts of your experience. Think nouns. What do people touch, see, interact with? Limit one idea per post-it.
 - Spend 10 more minutes but this time think verbs. What are people doing or trying to do? One idea per post-it.
 - Spend 10 more minutes sorting. Which concepts are potentially confusing? Copy the post-its into one (or more) of the three types of confusing concepts.
@@ -46,26 +45,26 @@ Collect all the concepts that need definition in a single place. Features that n
 
 ## Three types of confusing concepts
 
-| Type         | Description                                                                                                                                                                         | Example                                                                                                                                                                                                                         |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Collision    | When the same terminology is used for two concepts                                                                                                                                  | `Huddle` has a specific meaning in Slack. If you called another feature "Huddle" that would be confusing.                                                                                                                       |
-| Fuzzy label  | The reverse of collision. Where the same concept is referred to in multiple ways.                                                                                                   | This is common. In Zendesk, a `ticket comment` is also referred to as a `reply` or a `message`.                                                                                                                                 |
-| Dirty magnet | A kind of fuzzy label. It more generally means a feature that tends to attract clutter over time, due to a lack of constraints or guidance on how to organize information properly. | Terms like `AI` and `machine learning` are currently being overused in this way. <br><br>Another example: a desktop or home screen without predefined structures where users indiscriminately place files, leading to disarray. |
+| Type         | Description                                                                                                                                                                                              | Example                                                                                                                                                                                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Collision    | When the same terminology is used for two concepts                                                                                                                                                       | `Huddle` has a specific meaning in Slack. If you called another feature "Huddle" that would be confusing.                                                                                                                               |
+| Fuzzy label  | The reverse of collision. Where the same concept is referred to in multiple ways.                                                                                                                        | This is common. In Zendesk, a `ticket comment` is also referred to as a `reply` or a `message`.                                                                                                                                         |
+| Dirty magnet | A kind of fuzzy label. It generally means a design element or feature that tends to attract mess or clutter over time, due to a lack of constraints or guidance on how to organize information properly. | Terms like `AI` and`machine learning` are being overused without being properly defined. <br><br>In the UI sense, a desktop or home screen without predefined structures where users indiscriminately place files, leading to disarray. |
 
 ---
 
 ## Concepts vs terminology
 
-At this stage of the process, we are focusing on concepts, not terminology. Don't worry if a label doesn't sit well with you at first. That could change. You will have a chance to change it later.
+At this stage of the process, we are focusing on concepts, not terminology. Don't worry if the current label doesn't sit well with you. You will have a chance to change it later.
 
-| Concept                | Terminology         | Branded terminology        |
-| ---------------------- | ------------------- | -------------------------- |
-| The idea, the meaning  | The label, the name | The brand or catchphrase   |
-| Conceptual             | Functional          | Perceptual                 |
-| *Homo Sapiens Sapiens* | George Clooney      | "World's Sexiest Man 1997" |
-| Text editor            | Composer            | RoboComposer               |
+| Concept                | Terminology    | Branded terminology        |
+| ---------------------- | -------------- | -------------------------- |
+| The idea, the meaning  | The label      | The brand or catchphrase   |
+| Conceptual             | Functional     | Perceptual                 |
+| *Homo Sapiens Sapiens* | George Clooney | "World's Sexiest Man 1997" |
+| Text editor            | Composer       | RoboComposer               |
 
-Sometimes the concept and terminology end up being the same, but it's not necessary.
+Sometimes the concept and terminology end up being the same, but they don't have to be.
 
 ---
 
@@ -81,15 +80,15 @@ Sometimes the concept and terminology end up being the same, but it's not necess
 
 ## Painting a picture
 
-Visually arrange your concepts to show how they are connected. You can approach this in many ways, but make sure to keep things *low-fidelity* and simple.
+Visually arrange your concepts to show how they are connected. There are lots of ways to do this, but try to keep it *low-fidelity* and simple.
 
 ---
 
 ## Start here
 
-1. In another part of your whiteboard, answer the clustering questions to generate fodder for your concept maps.
-2. Choose a concept map type and start arranging your clusters. You can change your mind later, or you can make multiple!
-3. Draw arrows, group concepts, and illustrate relationships. It's OK to be messy at first.
+1. In another part of your whiteboard, answer the *clustering questions* to generate fodder for your concept maps.
+2. Choose a concept map type and start arranging your clusters. (You can change your mind later, or you can make multiple maps.)
+3. Draw arrows, group concepts, and annotate relationships. It's OK to be messy at first.
 
 ---
 
@@ -103,37 +102,36 @@ Visually arrange your concepts to show how they are connected. You can approach 
 
 ## Types of concept map
 
-- **Cluster Diagram**
-  A visual representation that groups related ideas or data into clusters to show relationships and to organize information hierarchically.
+Scroll down to see examples of concept maps.
+
+--
 
 ![](https://i.imgur.com/99AOIwq.png)
+--
 
-- **Euler Diagram**
-  A diagrammatic means of representing sets and their relationships with shapes that overlap; similar to, but not as strict in format as Venn diagrams.
+![](https://i.imgur.com/7qlSFj2.png)
 
-- **Cutaway View**
-  An illustration in which the outer layer of an object is 'cut away' to reveal the interior, providing insight into the inner workings or structure.
+--
 
-- **Exploded View**
-  A diagram that shows the individual parts of an object slightly separated by distance, displaying how components fit together and their sequence of assembly.
+![](https://i.imgur.com/MuT22FL.png)
 
----
+--
+![](https://i.imgur.com/glIwt89.png)
 
-![](https://i.imgur.com/ZpDj8Hg.png)
+--
+ ![](https://i.imgur.com/sgDEIDE.png)
 
-### Cluster diagram
+--
 
-- A cluster diagram adds structure to your concepts and defines some broad categories to your experience
+![](https://i.imgur.com/UgeqHnu.png)
 
-### Euler diagram
+--
 
-- If your concepts are highly interconnected and overlapping, an Euler diagram can make the connections clearer
+![](https://i.imgur.com/BuZRCHT.png)
 
-### Cutaway or exploded view
+--
 
-- Adding labels to a distorted, but low-fidelity, version of the experience can help illuminate how the concepts need to work together
-- Cutaway: ![](https://i.imgur.com/sgDEIDE.png)
-- Exploded view: ![](https://i.imgur.com/BuZRCHT.png)
+![](https://i.imgur.com/ln92LG9.jpeg)
 
 ---
 
@@ -156,7 +154,7 @@ Now that they have more structure, your concepts into a story format. For the fi
 ## Start here
 
 - In a sense, this is your first prototype of the experience. Write for someone without context
-- Use short clear sentences, unpack internal jargon, and walk through concepts in the order they are encountered
+- Use short clear sentences, unpack internal jargon, and walk through concepts in the order they are encountered 
 - Explain every concept when it is introduced and literally highlight any key concepts
 
 ---
@@ -167,12 +165,12 @@ Now that they have more structure, your concepts into a story format. For the fi
 - Your narrative is meant to inform the visual design, rather than the other way around. A well-written experience narrative will enable different design explorations.
 - Unlike a concept map, the sequence of events and concepts matters here.
 
-| Concept map | Narrative  |
-| ----------- | ---------- |
-| Visual      | Written    |
-| Non-linear  | Linear     |
-| Exploratory | Concise    |
-| Genotype    | Phentotype |
+| Concept map |     | Narrative  |
+| ----------- | --- | ---------- |
+| Visual      |     | Written    |
+| Non-linear  |     | Linear     |
+| Exploratory |     | Concise    |
+| Genotype    |     | Phentotype |
 
 ---
 
