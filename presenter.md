@@ -1,8 +1,8 @@
-# The Road To Information Architecturez
+# The Road To Information Architecture
 
 ## An ontology toolkit
 
-V. Srivasetas\
+V. Sri\
 Content Designer\
 2024-Q2
 
@@ -20,7 +20,7 @@ Content Designer\
 
 # Discovery
 
-## Collecting the elementsz
+## Collecting the elements
 
 Collect all the concepts that need definition in a a single place. Features that need names, language that's unclear, or anything else that's confusing.
 
