@@ -1,4 +1,4 @@
-# The Road To Information Architecturez
+# The Road To Information Architecture
 
 ## An ontology toolkit
 
